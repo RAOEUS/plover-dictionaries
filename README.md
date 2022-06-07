@@ -1,5 +1,7 @@
 # RAOEUS Plover Dictionaries
 
+Pull this repo directly into your Plover configuration directory in AppData
+
 My main.json and commands.json dictionaries are just the standard ones that come with Plover.
 
 Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c9b9104ea9) for the raw steno python dictionaries
