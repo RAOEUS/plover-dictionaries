@@ -2,7 +2,7 @@
 plugins
 plover.log
 clippy.txt
-commands.json
-user.json
-main.json
+/commands.json
+/user.json
+/main.json
 *.swp
