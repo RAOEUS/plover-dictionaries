@@ -1,0 +1,8 @@
+{
+"#W": "{#Super_L}",
+"TKUPT": "{PLOVER:ADD_TRANSLATION}",
+"KA*PS": "{MODE:CAPS}{PLOVER:TOGGLE_DICT:+caps-on.json}",
+"PHROEFBG": "{PLOVER:FOCUS}",
+"PHROEFBGS": "{PLOVER:FOCUS}",
+"PHR*UP": "{PLOVER:LOOKUP}"
+}
