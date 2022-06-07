@@ -1,3 +1,8 @@
-main.json
+.cache
+plugins
+plover.log
+clippy.txt
 commands.json
+user.json
+main.json
 *.swp
