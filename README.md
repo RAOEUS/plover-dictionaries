@@ -1,6 +1,6 @@
 # RAOEUS Plover Dictionaries
 
-Pull this repo directly into your Plover configuration directory in AppData
+Copy the contents of the repo directly into the plover configuration folder
 
 My main.json and commands.json dictionaries are just the standard ones that come with Plover, so I have excluded those dictionaries from this repository.
 
