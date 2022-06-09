@@ -26,6 +26,8 @@ This information should already be stored in the plover.cfg when it is pulled to
 - [ ] dicts/caps-on.json [For when MODE:CAPS is enabled]
 - [x] dicts/raoeus.json
 - [x] dicts/raoeus-commands.json
+- [x] dicts/emily-modifiers.py
+- [x] dicts/emily-symbols.py
 - [x] dicts/fancy-text.json
 - [x] dicts/plover-retro-string-op.json
 - [x] commands.json
