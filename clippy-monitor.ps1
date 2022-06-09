@@ -1,0 +1,1 @@
+type -wait clippy.txt
