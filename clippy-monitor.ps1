@@ -1,1 +1,1 @@
-type -wait clippy.txt
+type -wait $env:LOCALAPPDATA\plover\plover\clippy.txt
