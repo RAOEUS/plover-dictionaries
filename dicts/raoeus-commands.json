@@ -6,5 +6,7 @@
 "KA*PS": "{MODE:CAPS}{PLOVER:TOGGLE_DICT:+caps-on.json}",
 "PHROEFBG": "{PLOVER:FOCUS}",
 "PHROEFBGS": "{PLOVER:FOCUS}",
-"PHR*UP": "{PLOVER:LOOKUP}"
+"PHR*UP": "{PLOVER:LOOKUP}",
+"HRO*ER": "{>}",
+"HRO*ERD": "{*>}"
 }
