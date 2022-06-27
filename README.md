@@ -16,6 +16,10 @@ Credit to [@EPLHREU](https://github.com/EPLHREU) for the symbols and modifiers d
 - plover-retro-stringop
 - plover-stitching
 
+## Optional Plover plugins:
+- plover-clippy (For the `clippy-monitor.ps1` PowerShell script)
+- plover-tapey-tape (For the `tapey-tape-monitor.ps1` PowerShell script)
+
 ## Ordering and Enabled/Disabled
 
 The dictionaries should be in a particular order and some should be kept disabled. This is the current order of my dictionaries, and it will be unchecked if it should be left disabled.
