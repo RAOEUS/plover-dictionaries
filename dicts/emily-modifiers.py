@@ -71,7 +71,7 @@ symbols = {
         "PR"     : ["backslash", "", "", ""],
         "KPR"    : ["asciicircum", "guillemotleft", "guillemotright", "degree"],
         "KW"     : ["underscore", "", "", "mu"],
-        "P"      : ["grave", "", "", ""],
+        "P"      : ["quoteleft", "", "", ""],
         "PW"     : ["bar", "", "", "brokenbar"],
         "TPWR"   : ["asciitilde", "", "", ""]
         }
