@@ -24,16 +24,16 @@ Credit to [@EPLHREU](https://github.com/EPLHREU) for the symbols and modifiers d
 
 The dictionaries should be in a particular order and some should be kept disabled. This is the current order of my dictionaries, and it will be unchecked if it should be left disabled.
 
-This information should already be stored in the plover.cfg when it is pulled to your Plover configuration directory, but if you don't want to use that, this may help you out.
+This information should already be stored in the plover.cfg (you can simply move this over to your main Plover config directory and then modify it), but if you don't want to use that, this may help you out.
 
-- [x] dicts/raw_enter.py [For creating raw steno output]
-- [ ] dicts/caps-on.json [For when MODE:CAPS is enabled]
-- [x] dicts/raoeus.json
-- [x] dicts/raoeus-commands.json
-- [x] dicts/emily-modifiers.py
-- [x] dicts/emily-symbols.py
-- [x] dicts/fancy-text.json
-- [x] dicts/plover-retro-string-op.json
+- [x] plover-dictionaries/raw_enter.py [For creating raw steno output]
+- [ ] plover-dictionaries/caps-on.json [For when MODE:CAPS is enabled]
+- [x] plover-dictionaries/raoeus.json
+- [x] plover-dictionaries/raoeus-commands.json
+- [x] plover-dictionaries/emily-modifiers.py
+- [x] plover-dictionaries/emily-symbols.py
+- [x] plover-dictionaries/fancy-text.json
+- [x] plover-dictionaries/plover-retro-string-op.json
 - [x] commands.json
 - [x] main.json
-- [ ] dict/sraw.py [Will be the only enabled dict when raw steno mode is turned on via raw-enter.py]
+- [ ] plover-dictionaries/raw.py [Will be the only enabled dict when raw steno mode is turned on via raw-enter.py]
