@@ -6,7 +6,9 @@ My main.json and commands.json dictionaries are just the standard ones that come
 
 Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c9b9104ea9) for the raw steno python dictionaries
 
-Credit to [@EPLHREU](https://github.com/EPLHREU) for the symbols and modifiers dictionaries
+Credit to [@EPLHREU](https://github.com/EPLHREU) for the symbols dictionary
+
+Credit to [@jthlim](https://github.com/jthlim) for the modifiers dictionary
 
 ## Required Plover plugins:
 
@@ -17,6 +19,7 @@ Credit to [@EPLHREU](https://github.com/EPLHREU) for the symbols and modifiers d
 - plover-stitching
 
 ## Optional Plover plugins:
+
 - plover-clippy (For the `clippy-monitor.ps1` PowerShell script)
 - plover-tapey-tape (For the `tapey-tape-monitor.ps1` PowerShell script)
 
