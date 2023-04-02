@@ -33,7 +33,7 @@ This information should already be stored in the plover.cfg (you can simply move
 - [ ] plover-dictionaries/caps-on.json [For when MODE:CAPS is enabled]
 - [x] plover-dictionaries/raoeus.json
 - [x] plover-dictionaries/raoeus-commands.json
-- [x] plover-dictionaries/emily-modifiers.py
+- [x] plover-dictionaries/jeff-modifiers.py
 - [x] plover-dictionaries/emily-symbols.py
 - [x] plover-dictionaries/fancy-text.json
 - [x] plover-dictionaries/plover-retro-string-op.json
