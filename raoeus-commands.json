@@ -1,5 +1,4 @@
 {
-"#W": "{#Super_L}",
 "SR-R": "{^}a{#backspace shift(return)}{^}",
 "TKP-R": "{#AudioPrev}",
 "TKP-P": "{#AudioPlay}",
@@ -10,7 +9,6 @@
 "TKP-S": "{#AudioLowerVolume}",
 "TKUPT": "{PLOVER:ADD_TRANSLATION}",
 "KHRA*": "{#Control_L(a)}",
-"KA*PS": "{MODE:CAPS}{PLOVER:TOGGLE_DICT:+caps-on.json}",
 "PHROEFBG": "{PLOVER:FOCUS}",
 "PHROEFBGS": "{PLOVER:FOCUS}",
 "PHROFBGS": "{PLOVER:FOCUS}",

@@ -8,7 +8,7 @@ Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c
 
 Credit to [@EPLHREU](https://github.com/EPLHREU) for the symbols dictionary
 
-Credit to [@jthlim](https://github.com/jthlim) for the modifiers dictionary
+Credit to [@jthlim](https://github.com/jthlim) for the numbers & modifiers dictionary
 
 ## Required Plover plugins:
 
@@ -33,6 +33,7 @@ This information should already be stored in the plover.cfg (you can simply move
 - [ ] plover-dictionaries/caps-on.json [For when MODE:CAPS is enabled]
 - [x] plover-dictionaries/raoeus.json
 - [x] plover-dictionaries/raoeus-commands.json
+- [x] plover-dictionaries/jeff-numbers.py
 - [x] plover-dictionaries/jeff-modifiers.py
 - [x] plover-dictionaries/emily-symbols.py
 - [x] plover-dictionaries/fancy-text.json
