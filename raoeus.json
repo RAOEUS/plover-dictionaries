@@ -101,5 +101,11 @@
 "EPLS": "emphasis",
 "EPLZ": "emphasize",
 "UFPS": "USPS",
-"-TS": "it is"
+"-TS": "it is",
+"SAOEU/TRAPBS": "psytrance",
+"TRA*PBS": "trance",
+"SAOEU/TRA*PBS": "psytrance",
+"SAOEU/TRAEPBS": "psytrance",
+"TPHAO*T": "into it",
+"TRAEPBS": "trance"
 }
