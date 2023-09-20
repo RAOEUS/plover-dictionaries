@@ -1,4 +1,5 @@
 {
+"#W": "{#Super_L}",
 "SR-R": "{^}a{#backspace shift(return)}{^}",
 "TKP-R": "{#AudioPrev}",
 "TKP-P": "{#AudioPlay}",
@@ -13,6 +14,7 @@
 "PHROEFBGS": "{PLOVER:FOCUS}",
 "PHROFBGS": "{PLOVER:FOCUS}",
 "PHR*UP": "{PLOVER:LOOKUP}",
+"W-RBGS": "{#Super_L}",
 "HRO*ER": "{>}",
 "HRO*ERD": "{*>}"
 }
