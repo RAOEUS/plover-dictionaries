@@ -5,8 +5,8 @@ def lookup(steno):
     raise KeyError
 
   stroke = steno[0]
-  if stroke == "12R*":
+  if stroke == "RA*U":
     return "{plover:solo_dict:+raw.py}"
-  elif stroke == "STR*":
+  elif stroke == "SRA*U":
     return "{plover:solo_dict:+raw.py}{`^}"
   raise KeyError

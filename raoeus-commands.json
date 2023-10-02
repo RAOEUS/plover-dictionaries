@@ -8,6 +8,7 @@
 "TKP-G": "{#AudioNext}",
 "TKP-T": "{#AudioRaiseVolume}",
 "TKP-S": "{#AudioLowerVolume}",
+"TK*L": "{#Delete}",
 "TKUPT": "{PLOVER:ADD_TRANSLATION}",
 "KHRA*": "{#Control_L(a)}",
 "PHROEFBG": "{PLOVER:FOCUS}",
