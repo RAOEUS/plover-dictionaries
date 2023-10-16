@@ -59,6 +59,8 @@
 "KROERG": "Kroger",
 "KROEG/KWRER": "Kroger",
 "KAR/HART": "Carhartt",
+"KAT/PHRER": "caterpillar",
+"KAT/PEURL": "caterpillar",
 "KAS/KWROE": "Casio",
 "KOE/PWOE": "Kobo",
 "KOEB/KWROE": "Kobo",
@@ -71,6 +73,8 @@
 "PWAPBD/TPHA": "bandana",
 "PWEUS/PHAUL": "Bismol",
 "PWUPB/TKAPBT": "abundant",
+"PHAOER/KAL": "miracle",
+"PHAOER/K-L": "miracle",
 "PHAOUFPL": "mutual",
 "PHO": "month",
 "PHOEPBLG": "{:emoji}",
@@ -94,6 +98,7 @@
 "WAOPB": "was an",
 "WO*": "woah",
 "WOEUR": "would I",
+"WOUPBT": "wouldn't",
 "HRAR/SREL": "Laravel",
 "HROP/PER": "lopper",
 "HREUPBLG": "religion",
@@ -123,5 +128,6 @@
 "EPLS": "emphasis",
 "EPLZ": "emphasize",
 "UFPS": "USPS",
+"UPBLG": "unlike",
 "-TS": "it is"
 }
