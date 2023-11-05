@@ -1,0 +1,12 @@
+[submodule "plover_retro_stringop"]
+	path = plover_retro_stringop
+	url = https://github.com/buffet/plover_retro_stringop.git
+[submodule "jeff-phrasing"]
+	path = jeff-phrasing
+	url = https://github.com/jthlim/jeff-phrasing.git
+[submodule "emily-symbols"]
+	path = emily-symbols
+	url = https://github.com/EPLHREU/emily-symbols.git
+[submodule "emily-modifiers"]
+	path = emily-modifiers
+	url = https://github.com/EPLHREU/emily-modifiers.git
