@@ -1,4 +1,4 @@
-# RAOEUS Plover Dictionaries
+# RAOEUS Plover Dictionaries (Plover Theory Based)
 
 Clone the contents of the repo directly into the plover configuration folder
 
@@ -6,20 +6,18 @@ My main.json and commands.json dictionaries are just the standard ones that come
 
 Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c9b9104ea9) for the raw steno python dictionaries
 
-Credit to [@EPLHREU](https://github.com/EPLHREU) for the symbols and modifiers dictionaries
-
 ## Required Plover plugins:
 
-- plover-dict-commands
-- plover-python-dictionary
-- plover-retro-stringop
-- plover-stitching
+- `plover-dict-commands` for raw mode
+- `plover-python-dictionary` for Emily's Modifiers, Emily's Symbols, and raw.py
+- `plover-retro-stringop` for retro string alterations in retro.json
+- `plover-stitching` for raw mode
 
 ## Optional Plover plugins:
 
 - plover-clippy (For the `clippy-monitor.ps1` PowerShell script)
+- plover-fancy-text (For use with `fancy-text.json`)
 - plover-tapey-tape (For the `tapey-tape-monitor.ps1` PowerShell script)
-- plover-fancy-texct (For use with `fancy-text.json`)
 
 ## Ordering and Enabled/Disabled
 
@@ -30,9 +28,12 @@ This information should already be stored in the plover.cfg (you can simply move
 - [x] plover-dictionaries/raw_enter.py [For creating raw steno output]
 - [x] plover-dictionaries/raoeus.json
 - [x] plover-dictionaries/raoeus-commands.json
-- [x] plover-dictionaries/emily-modifiers.py
-- [x] plover-dictionaries/emily-symbols.py
+- [x] plover-dictionaries/raoeus-text-expansion.json
+- [x] plover-dictionaries/emily-symbols/emily-symbols.py
+- [x] plover-dictionaries/emily-modifiers/emily-modifiers.py
+- [x] plover-dictionaries/retro.json
 - [x] plover-dictionaries/text-emoji-western.json
+- [x] plover-dictionaries/fancy-text.json
 - [x] commands.json
 - [x] main.json
 - [ ] plover-dictionaries/raw.py [Will be the only enabled dict when raw steno mode is turned on via raw-enter.py]
