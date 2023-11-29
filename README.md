@@ -1,6 +1,6 @@
 # RAOEUS Plover Dictionaries (Plover Theory Based)
 
-Clone the contents of the repo directly into the plover configuration folder
+Clone the contents of the repo directly into the plover configuration folder with `git clone https://github.com/RAOEUS/plover-dictionaries.git` and init submodules with `git submodule update --init --recursive`
 
 My main.json and commands.json dictionaries are just the standard ones that come with Plover, so I have excluded those dictionaries from this repository.
 
