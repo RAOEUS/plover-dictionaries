@@ -16,7 +16,6 @@ Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c
 ## Optional Plover plugins:
 
 - plover-clippy (For the `clippy-monitor.ps1` PowerShell script)
-- plover-fancy-text (For use with `fancy-text.json`)
 - plover-tapey-tape (For the `tapey-tape-monitor.ps1` PowerShell script)
 
 ## Ordering and Enabled/Disabled
@@ -33,7 +32,6 @@ This information should already be stored in the plover.cfg (you can simply move
 - [x] plover-dictionaries/emily-modifiers/emily-modifiers.py
 - [x] plover-dictionaries/retro.json
 - [x] plover-dictionaries/text-emoji-western.json
-- [x] plover-dictionaries/fancy-text.json
 - [x] commands.json
 - [x] main.json
 - [ ] plover-dictionaries/raw.py [Will be the only enabled dict when raw steno mode is turned on via raw-enter.py]
