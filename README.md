@@ -18,9 +18,26 @@ Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c
 - plover-clippy (For the `clippy-monitor.ps1` PowerShell script)
 - plover-tapey-tape (For the `tapey-tape-monitor.ps1` PowerShell script)
 
-## retro.json Explained
+## modes.json
+- Starter chord is SPH- for "**S**witch **M**ode"
+
+| Mode Name   | Chord       | Notes                                             |
+|-------------|-------------|---------------------------------------------------|
+| Reset       | SPH-R       | Resets all modes                                  |
+| No spaces   | SPH-FP      | Very useful for URLs.                             |
+| kebap-case  | SPH-FP      |                                                   |
+| camelCase   | SPH-PBLG    |                                                   |
+| CAPS        | SPH-PBG     |                                                   |
+| lower       | SPH-L       |                                                   |
+| Title Case  | SPH-T       | You can still use HRO*ER to lowercase             |
+| snake_case  | SPH-T       | You can still use KPA to capitalize               |
+
+
+
+
+## retro.json
 This dictionary is used with the `plover-retro-stringop` plugin.
-- `KWR` is the starter chord; it is always pressed.
+- `KWR` is the arbitrary starter chord; it is always pressed.
 - `STPH` represent binary numbers. For example, to retroactively change 6 words to camelCase, `TKPWR-B`. `KWR-B` is camelCase, adding `TP` for 6 words.
   - S = 8, T = 4, P = 2, H = 1
 - `-R` is snake_case, `-B` is camelCase, `-G` is PascalCase, `-RB` is UPPER_SNAKE_CASE, `-BG` is kebap-case
