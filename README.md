@@ -18,6 +18,15 @@ Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c
 - plover-clippy (For the `clippy-monitor.ps1` PowerShell script)
 - plover-tapey-tape (For the `tapey-tape-monitor.ps1` PowerShell script)
 
+## retro.json Explained
+This dictionary is used with the `plover-retro-stringop` plugin.
+- `KWR` is the starter chord; it is always pressed.
+- `STPH` represent binary numbers. For example, to retroactively change 6 words to camelCase, `TKPWR-B`. `KWR-B` is camelCase, adding `TP` for 6 words.
+  - S = 8, T = 4, P = 2, H = 1
+- `-R` is snake_case, `-B` is camelCase, `-G` is PascalCase, `-RB` is UPPER_SNAKE_CASE, `-BG` is kebap-case
+- As an alternative to using STPH for binary numbers, you can also just repeat it once per word.
+  - For example, to change three words to snake_case, `KWR-R/KWR-R/KWR-R` instead of `KPWHR-R`
+
 ## Ordering and Enabled/Disabled
 
 The dictionaries should be in a particular order and some should be kept disabled. This is the current order of my dictionaries, and it will be unchecked if it should be left disabled.
