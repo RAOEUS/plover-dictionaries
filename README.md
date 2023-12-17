@@ -21,16 +21,17 @@ Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c
 ## modes.json
 - Starter chord is SPH- for "**S**witch **M**ode"
 
-| Mode Name   | Chord       | Notes                                             |
-|-------------|-------------|---------------------------------------------------|
-| Reset       | SPH-R       | Resets all modes                                  |
-| NoSpaces    | SPH-FP      | Very useful for URLs.                             |
-| kebap-case  | SPH-FP      |                                                   |
-| camelCase   | SPH-PBLG    |                                                   |
-| CAPS        | SPH-PBG     |                                                   |
-| lower       | SPH-L       |                                                   |
-| Title Case  | SPH-T       | You can still use HRO*ER to lowercase             |
-| snake_case  | SPH-T       | You can still use KPA to capitalize               |
+| Mode Name   | Chord        | Notes                                                 |
+|-------------|--------------|-------------------------------------------------------|
+| Reset       | SPH-R        | Resets all modes                                      |
+| kebap-case  | SPH-FP       |                                                       |
+| camelCase   | SPH-PBLG     |                                                       |
+| CAPS        | SPH-PBG      |                                                       |
+| lower       | SPH-L        |                                                       |
+| snake_case  | SPH-T        | You can still use KPA to capitalize                   |
+| nospaces    | SPH-FP       | Very useful for URLs.                                 |
+| Title Case  | SPH-T        | You can still use HRO*ER to lowercase                 |
+| PascalCase  | SPH-FP/SPH-T | Combined nospaces and Title Case gives you PascalCase |
 
 
 
