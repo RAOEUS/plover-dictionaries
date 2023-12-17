@@ -24,7 +24,7 @@ Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c
 | Mode Name   | Chord       | Notes                                             |
 |-------------|-------------|---------------------------------------------------|
 | Reset       | SPH-R       | Resets all modes                                  |
-| No spaces   | SPH-FP      | Very useful for URLs.                             |
+| NoSpaces    | SPH-FP      | Very useful for URLs.                             |
 | kebap-case  | SPH-FP      |                                                   |
 | camelCase   | SPH-PBLG    |                                                   |
 | CAPS        | SPH-PBG     |                                                   |
