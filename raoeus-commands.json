@@ -9,6 +9,7 @@
 "TKP-G": "{#AudioNext}",
 "TKP-T": "{#AudioRaiseVolume}",
 "TKP-S": "{#AudioLowerVolume}",
+"TK*FPS": "=retrospective_delete_space",
 "TK*L": "{#Delete}",
 "TKUPT": "{PLOVER:ADD_TRANSLATION}",
 "KHRA*": "{#Control_L(a)}",
@@ -18,5 +19,6 @@
 "PHR*UP": "{PLOVER:LOOKUP}",
 "W-RBGS": "{#Super_L}",
 "HRO*ER": "{>}",
-"HRO*ERD": "{*>}"
+"HRO*ERD": "{*>}",
+"A*FPS": "=retrospective_insert_space"
 }
