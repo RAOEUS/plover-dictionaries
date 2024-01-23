@@ -1,8 +1,8 @@
-# RAOEUS Plover Dictionaries (Plover Theory Based)
+# RAOEUS Plover Dictionaries (Lapwing Theory Based)
 
 Clone the contents of the repo directly into the plover configuration folder with `git clone https://github.com/RAOEUS/plover-dictionaries.git` and init submodules with `git submodule update --init --recursive`
 
-My main.json and commands.json dictionaries are just the standard ones that come with Plover, so I have excluded those dictionaries from this repository.
+The base theory for Lapwing comes from `aerick/commands.json` and `aerick/lapwing-base.json`
 
 Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c9b9104ea9) for the raw steno python dictionaries
 
@@ -50,13 +50,13 @@ The dictionaries should be in a particular order and some should be kept disable
 This information should already be stored in the plover.cfg (you can simply move this over to your main Plover config directory and then modify it), but if you don't want to use that, this may help you out.
 
 - [x] plover-dictionaries/raw_enter.py [For creating raw steno output]
-- [x] plover-dictionaries/raoeus.json
+- [x] plover-dictionaries/raoeus-lapwing.json
 - [x] plover-dictionaries/raoeus-commands.json
 - [x] plover-dictionaries/raoeus-text-expansion.json
+- [x] plover-dictionaries/modes.json
 - [x] plover-dictionaries/emily-symbols/emily-symbols.py
 - [x] plover-dictionaries/emily-modifiers/emily-modifiers.py
 - [x] plover-dictionaries/retro.json
-- [x] plover-dictionaries/text-emoji-western.json
-- [x] commands.json
-- [x] main.json
+- [x] plover-dictionaries/aerick/commands.json
+- [x] plover/dictionaries/aerick/lapwing-base.json
 - [ ] plover-dictionaries/raw.py [Will be the only enabled dict when raw steno mode is turned on via raw-enter.py]
