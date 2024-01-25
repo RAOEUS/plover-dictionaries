@@ -54,8 +54,8 @@ This information should already be stored in the plover.cfg (you can simply move
 - [x] plover-dictionaries/raoeus-commands.json
 - [x] plover-dictionaries/raoeus-text-expansion.json
 - [x] plover-dictionaries/modes.json
-- [x] plover-dictionaries/jeff-phrasing/jeff-phrasing.py
 - [x] plover-dictionaries/plover-left-hand-modifiers/abby-left-hand-modifiers.py
+- [x] plover-dictionaries/jeff-phrasing/jeff-phrasing.py
 - [x] plover-dictionaries/emily-symbols/emily-symbols.py
 - [x] plover-dictionaries/emily-modifiers/emily-modifiers.py
 - [x] plover-dictionaries/retro.json
