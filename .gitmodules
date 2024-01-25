@@ -1,3 +1,6 @@
+[submodule "aerick"]
+  path = aerick
+  url = https://github.com/aerickt/steno-dictionaries
 [submodule "plover_retro_stringop"]
 	path = plover_retro_stringop
 	url = https://github.com/buffet/plover_retro_stringop.git
@@ -10,3 +13,6 @@
 [submodule "emily-modifiers"]
 	path = emily-modifiers
 	url = https://github.com/EPLHREU/emily-modifiers.git
+[submodule "plover-left-hand-modifiers"]
+  path = plover-left-hand-modifiers
+  url = https://github.com/Abkwreu/plover-left-hand-modifiers
