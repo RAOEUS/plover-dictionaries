@@ -9,7 +9,7 @@ Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c
 ## Required Plover plugins:
 
 - `plover-dict-commands` for raw mode
-- `plover-python-dictionary` for Emily's Modifiers, Emily's Symbols, and raw.py
+- `plover-python-dictionary` for Emily's Modifiers, Emily's Symbols, Jeff's Phrasing, Abby's Left-Hand Modifiers, and raw.py
 - `plover-retro-stringop` for retro string alterations in retro.json
 - `plover-stitching` for raw mode
 
@@ -54,6 +54,8 @@ This information should already be stored in the plover.cfg (you can simply move
 - [x] plover-dictionaries/raoeus-commands.json
 - [x] plover-dictionaries/raoeus-text-expansion.json
 - [x] plover-dictionaries/modes.json
+- [x] plover-dictionaries/jeff-phrasing/jeff-phrasing.py
+- [x] plover-dictionaries/plover-left-hand-modifiers/abby-left-hand-modifiers.py
 - [x] plover-dictionaries/emily-symbols/emily-symbols.py
 - [x] plover-dictionaries/emily-modifiers/emily-modifiers.py
 - [x] plover-dictionaries/retro.json
