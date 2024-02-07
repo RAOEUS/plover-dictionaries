@@ -58,7 +58,6 @@ This information should already be stored in the plover.cfg (you can simply move
 - [x] plover-dictionaries/jeff-phrasing/jeff-phrasing.py
 - [x] plover-dictionaries/emily-symbols/emily-symbols.py
 - [x] plover-dictionaries/emily-modifiers/emily-modifiers.py
-- [x] plover-dictionaries/retro.json
 - [x] plover-dictionaries/aerick/commands.json
 - [x] plover/dictionaries/aerick/lapwing-base.json
 - [ ] plover-dictionaries/raw.py [Will be the only enabled dict when raw steno mode is turned on via raw-enter.py]
