@@ -9,7 +9,7 @@ Credit to [@jenchanws](https://gist.github.com/jenchanws/5c8dedb826c775fc2a1521c
 ## Required Plover plugins:
 
 - `plover-dict-commands` for raw mode
-- `plover-python-dictionary` for Emily's Modifiers, Emily's Symbols, Jeff's Phrasing, Abby's Left-Hand Modifiers, and raw.py
+- `plover-python-dictionary` for Emily's Modifiers, Emily's Symbols, Jeff's Phrasing, Abby's Left-Hand Modifiers, lapwing-prefixed-proper-nouns.py, and raw.py
 - `plover-retro-stringop` for retro string alterations in retro.json
 - `plover-stitching` for raw mode
 
@@ -42,6 +42,11 @@ This dictionary is used with the `plover-retro-stringop` plugin.
 - `-R` is snake_case, `-B` is camelCase, `-G` is PascalCase, `-RB` is UPPER_SNAKE_CASE, `-BG` is kebap-case
 - As an alternative to using STPH for binary numbers, you can also just repeat it once per word.
   - For example, to change three words to snake_case, `KWR-R/KWR-R/KWR-R` instead of `KPWHR-R`
+ 
+## lapwing-prefixed-proper-nouns.py
+This is a python dictionary that takes Aerick's prefixed proper nouns dictionary as an input and outputs it with a replaced starting chord.
+By default, the starter chord is `SKWR`, which replaces `#`. You do not need to load the original lapwing-prefixed-proper-nouns.json in Plover in addition to this python dictionary.
+> What's the point of this? Well, this way I can pull Aerick's commits in my submodule without having to manually find and replace the starter.
 
 ## Ordering and Enabled/Disabled
 
@@ -58,6 +63,8 @@ This information should already be stored in the plover.cfg (you can simply move
 - [x] plover-dictionaries/jeff-phrasing/jeff-phrasing.py
 - [x] plover-dictionaries/emily-symbols/emily-symbols.py
 - [x] plover-dictionaries/emily-modifiers/emily-modifiers.py
+- [x] plover-dictionaries/lapwing-prefixed-proper-nouns.py
+- [x] plover-dictionaries/aerick/lapwing-commands.json
 - [x] plover-dictionaries/aerick/commands.json
 - [x] plover/dictionaries/aerick/lapwing-base.json
 - [ ] plover-dictionaries/raw.py [Will be the only enabled dict when raw steno mode is turned on via raw-enter.py]
