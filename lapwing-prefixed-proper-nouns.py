@@ -15,7 +15,7 @@ def determine_longest_key_length():
     return longest_key
 
 LONGEST_KEY = determine_longest_key_length()
-print(LONGEST_KEY)
+#print(LONGEST_KEY)
 
 def change_starter(dictionary_file, starter):
     modified_dictionary = {}
