@@ -66,6 +66,7 @@ This information should already be stored in the plover.cfg (you can simply move
 - [x] plover-dictionaries/emily-symbols/emily-symbols.py
 - [x] plover-dictionaries/emily-modifiers/emily-modifiers.py
 - [x] plover-dictionaries/lapwing-prefixed-proper-nouns.py
+- [x] plover-dictionaries/lapwing-numbers.py
 - [x] plover-dictionaries/aerick/lapwing-commands.json
 - [x] plover-dictionaries/aerick/commands.json
 - [x] plover/dictionaries/aerick/lapwing-base.json
