@@ -44,8 +44,10 @@ This dictionary is used with the `plover-retro-stringop` plugin.
   - For example, to change three words to snake_case, `KWR-R/KWR-R/KWR-R` instead of `KPWHR-R`
  
 ## lapwing-prefixed-proper-nouns.py
-This is a python dictionary that takes Aerick's prefixed proper nouns dictionary as an input and outputs it with a replaced starting chord.
-By default, the starter chord is `SKWR`, which replaces `#`. You do not need to load the original lapwing-prefixed-proper-nouns.json in Plover in addition to this python dictionary.
+The original lapwing-prefixed-proper-nouns.json from Lapwing is used when your machine does not have an option to re-map the top `-S` key to `#`. However, the starting `#` is, by default, mapped to `=repeat_last_translation`. I like the default stroke for repeating translations, so I created this Python dictionary to change the starting chord for proper nouns to `SKWR` instead of `#`.
+
+You do not need to load the original lapwing-prefixed-proper-nouns.json in Plover in addition to this python dictionary.
+
 > What's the point of this? Well, this way I can pull Aerick's commits in my submodule without having to manually find and replace the starter.
 
 ## Ordering and Enabled/Disabled
