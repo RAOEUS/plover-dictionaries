@@ -45,6 +45,5 @@ def reverse_lookup(outline):
             matches.append(tuple(key.split('/')))  # Convert stroke string back to tuple
     return matches
     
-# Testing the lookup and reverse_lookup functions
-print(lookup(starter + '/' + 'SABG'))
-print(reverse_lookup("Zach")) # okay huh
+#print(lookup(starter + '/' + 'SABG'))
+#print(reverse_lookup("Zach"))
