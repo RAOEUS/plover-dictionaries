@@ -1,7 +1,7 @@
 {
 "#W": "{#Super_L}",
 "STA*B": "{#Shift_L(Tab)}",
-"SKPA": "{#Escape}{^}",
+"SKA": "{#Escape}{^}",
 "SR-R": "{^}a{#backspace shift(return)}{^}",
 "TKP-R": "{#AudioPrev}",
 "TKP-P": "{#AudioPlay}",

@@ -7,6 +7,7 @@
 "W*/AOE/PHAEUL": "zachary.rice@lva.virginia.gov",
 "HR*/SR*/A*/W*/S*": "www.lva.virginia.gov",
 "A*/A*/KWRA*T/PW*/HR*": "aazach@biblioteca.local",
-"A*T/PW*/HR*": "@biblioteca.local",
+"A*T/PW*/HR*": "{^@biblioteca.local}",
+"A*T/HR*/SR*/A*/P-P": "{^@lva.virginia.gov}",
 "*U/KR*/W*": "UncommonWealth"
 }
